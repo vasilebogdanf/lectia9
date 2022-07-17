@@ -1,4 +1,4 @@
-package OOP;
+package Person;
 
 import Person.Person;
 

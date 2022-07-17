@@ -11,7 +11,8 @@ public class InheritanceVisibilityMain {
 
 //        System.out.println(person.protectedAcces);
         System.out.println(person.publicAcces);
+        System.out.println(Person.PERSON_USAGE);
 
-        Person specialPerson=new SpecialPerson();
+       // Person specialPerson=new SpecialPerson();
     }
 }

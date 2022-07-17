@@ -1,6 +1,8 @@
 package Person;
 
 public class Person {
+
+    public final static String PERSON_USAGE="Folosit la primarie";
     private final String CNP;
     private final String nume;
     private final String email;
