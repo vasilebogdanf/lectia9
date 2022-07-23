@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5b697b0-9e6f-48fa-a2a1-7b193d7e390f" name="Changes" comment="Update1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/poly/StaticPolyMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/poly/dinamic/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/poly/dinamic/DynamicPolyMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/poly/dinamic/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP/poly/dinamic/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OOP/InheritanceVisibilityMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP/InheritanceVisibilityMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OOP/SpecialPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Person/SpecialPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OOP/StaticPolyMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Person/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Person/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lectia9_17.07.2022/OOP/poly/dinamic/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lectia9_17.07.2022/OOP/poly/dinamic/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lectia9_17.07.2022/OOP/poly/dinamic/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lectia9_17.07.2022/OOP/poly/dinamic/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lectia9_17.07.2022/OOP/poly/dinamic/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lectia9_17.07.2022/OOP/poly/dinamic/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OOP/poly/dinamic/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP/poly/dinamic/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OOP/poly/dinamic/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP/poly/dinamic/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OOP/poly/dinamic/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP/poly/dinamic/Square.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,11 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\lectia9" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.DynamicPolyMain">
     <configuration name="DynamicPolyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP.poly.dinamic.DynamicPolyMain" />

@@ -10,6 +10,7 @@ public class Circle extends Shape{
     }
 
     public Circle(double radious) {
+        super("Circle");
         this.radious = radious;
     }
 
